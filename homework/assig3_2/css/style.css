@@ -1,0 +1,21 @@
+
+ #container{
+ 	width: 500px;
+ 	height: 600px;
+ 	margin: 100px 0 0 650px
+ }
+ #upload{
+ 	margin-top:  30px;
+ 	margin-left: 40px;
+ }
+ #search_container{
+ 	margin-left: 40px;
+ }
+ .space{
+    margin-left: 10px;	
+ }
+ #search{
+ 	height: 30px;
+
+ }
+

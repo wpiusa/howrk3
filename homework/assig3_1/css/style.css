@@ -1,0 +1,29 @@
+
+  div{
+      text-align: center; 
+  }
+  h1{
+      font-weight: bold; 
+  }
+  table{
+      margin: auto;
+      border: 1px solid black; 
+  }
+  #main_table{
+      width: 500px;
+  }
+  #sub_table1{
+      width: 300px;
+  }
+  #sub_table2{
+      width: 400px;
+  }
+  th,td{
+      border: 1px solid black; 
+  }
+  td{
+      text-align: left;
+  }
+  #chairman{
+      font-weight: bold;
+  }
